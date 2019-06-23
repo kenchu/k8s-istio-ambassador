@@ -1,4 +1,4 @@
-WORKSPACE=/Users/ken.chu/repo/k8s
+WORKSPACE=$(HOME)/repo/k8s
 
 ISTIO_NAMESPACE=istio-system
 ISTIO_NAME=istio
